@@ -6,13 +6,13 @@
         android:icon="@drawable/ic_horoscope" />
 
     <item
-        android:id="@+id/palmistryFragment"
-        android:icon="@drawable/ic_cards"
-        android:title="@string/palmistry" />
-
-    <item
         android:id="@+id/luckFragment"
         android:icon="@drawable/ic_hand"
         android:title="@string/luck" />
+
+    <item
+        android:id="@+id/palmistryFragment"
+        android:icon="@drawable/ic_cards"
+        android:title="@string/palmistry" />
 
 </menu>
